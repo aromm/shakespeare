@@ -1,3 +1,7 @@
+//do we ned to require the controller?
+var playControllerModule = require('./playController');
+
+
 /**
    * Plays DataService
    * Uses embedded, hard-coded data model; acts asynchronously to simulate
@@ -11,7 +15,7 @@ function PlayService($q){
       {
         name: 'All\'s Well That Ends Well',
         avatar: 'svg-1',
-        content: 'I love cheese, especially airedale queso. Cheese and biscuits halloumi cauliflower cheese cottage cheese swiss boursin fondue caerphilly. Cow port-salut camembert de normandie macaroni cheese feta who moved my cheese babybel boursin. Red leicester roquefort boursin squirty cheese jarlsberg blue castello caerphilly chalk and cheese. Lancashire.'
+        content: playControllerModule(plays0].name);
       },
       {
         name: 'Antony and Cleopatra',

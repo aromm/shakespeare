@@ -1,3 +1,15 @@
+  var dict = {
+    'All\'s Well That Ends Well': 'AWW',
+    'Antony and Cleopatra': 'Ant'
+    'As You Like It': 'AYL',
+    'Coriolanus': 'Cor',
+    'Cymbeline': 'Cym',
+    'Comedy of Errors': 'Err',
+    'Henry IV': 'H4',
+    'Henry V': 'H5',
+    'Hamlet': 'Ham'
+  }
+
   angular
        .module('playModule')
        .controller('PlayController', [
@@ -45,6 +57,17 @@
      * This function reads play info from a JSON file
      */
     function getPlayInfo ( play ) {
+      var fileName = dict.play;
+      var playName, playSummary, playChars;
+      $.getJSON(fileName+".json", function(data) {
+        console.log("JSON Data: " + data);
+        $.each(data, function(key, val) {
+            console.log(key + "value:: " + val);
+            playName = data.name;
+            playChars = data.characters;
+            playSummary = data.summary;
+        });
+      });
 
     }
 
@@ -55,5 +78,7 @@
     function getSpeakFrequency ( play ) {
 
     }
+
+    var playControllerModule = export.getPlayInfo;
 
   }
