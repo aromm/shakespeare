@@ -1,5 +1,4 @@
-//do we ned to require the controller?
-var playControllerModule = require('./playController');
+
 
 
 /**
@@ -15,7 +14,7 @@ function PlayService($q){
       {
         name: 'All\'s Well That Ends Well',
         avatar: 'svg-1',
-        content: playControllerModule(plays0].name);
+        content: playControllerModule(plays[0].name);
       },
       {
         name: 'Antony and Cleopatra',

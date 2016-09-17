@@ -79,6 +79,4 @@
 
     }
 
-    var playControllerModule = export.getPlayInfo;
-
   }
