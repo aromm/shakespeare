@@ -1,3 +1,5 @@
+
+
 /**
    * Plays DataService
    * Uses embedded, hard-coded data model; acts asynchronously to simulate
@@ -6,8 +8,8 @@
    * @returns {{loadAll: Function}}
    * @constructor
    */
-function PlayService($q){
-    var plays = [
+function NavBarService($q){
+    var features = [
       {
         name: 'Summary',
         avatar: 'svg-1'
@@ -30,7 +32,10 @@ function PlayService($q){
     return {
       loadAllFeatures : function() {
         // Simulate async nature of real remote calls
+        console.log(features);
         return $q.when(features);
       }
     };
   }
+
+

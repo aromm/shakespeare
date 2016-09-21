@@ -14,7 +14,7 @@ function PlayService($q){
       {
         name: 'All\'s Well That Ends Well',
         avatar: 'svg-1',
-        content: playControllerModule(plays[0].name);
+        content: 'content';
       },
       {
         name: 'Antony and Cleopatra',
