@@ -30,6 +30,8 @@
     self.selected     = null;
     self.featureLinks = [ ];
     self.selectLink   = selectLink;
+    self.getPlayInfo  = getPlayInfo;
+    self.getSpeakFrequency = getSpeakFrequency;
 
     // Load all registered users
 
@@ -39,6 +41,8 @@
             self.features    = [].concat(features);
             self.selected = features[0];
           });
+
+
 
     // *********************************
     // Internal methods
