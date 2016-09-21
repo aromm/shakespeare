@@ -24,31 +24,45 @@ function AppController(navService, $mdSidenav, $scope) {
     var self = this;
     self.selected;
     self.plays = [];
+    self.searchTerm = "";
+    self.searchMode = false;
+    self.selectPlay = selectPlay;
+
+    self.showYears = false;
+
+    self.sortBy = "name";
+    self.sortList = sortList;
 
     self.toggleList = togglePlaysList;
-    self.selectPlay = selectPlay;
+    self.toggleSearch = toggleSearchMode;
 
     // Load all plays
     navService
           .loadAllPlays()
-          .then( function(plays) {
+          .then(function(plays) {
             self.plays    = [].concat(plays);
-            self.selected = plays[0];
+            //self.selected = plays[0];
           });
 
 
     /**
      * Hide or Show the 'left' sideNav area
      */
-    function togglePlaysList() {
-      // $mdSidenav('left').toggle();
+    function togglePlaysList(e) {
+      if (e.target.type !== "text") $mdSidenav('left').toggle();
     }
 
-    /**
-     * Select the current avatars
-     * @param menuId
-     */
+    function toggleSearchMode() {
+      self.searchMode = !self.searchMode;
+    }
+
     function selectPlay (play) {
       self.selected = angular.isNumber(play) ? self.plays[play] : play;
-    }   
+    }
+
+    function sortList(sortBy) {
+      self.sortBy = sortBy;
+      self.showYears = (sortBy == 'year');
+      self.showGenres = (sortBy == 'genre');
+    }
 }
