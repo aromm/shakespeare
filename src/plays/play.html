@@ -5,10 +5,26 @@
     <md-content flex layout-padding>
 
       <div layout="column" layout-align="top center">
+      	<!-- Play Heading -->
         <md-content layout="row" flex id="content">
 			<h1> {{ctrl.play["name"]}} </h1>
 			<md-icon md-svg-icon="{{ctrl.play.avatar}}" class="avatar"></md-icon>
-        </md-subheader>
+        </md-content>
+
+        <md-card md-theme="default" md-theme-watch ng-repeat="item in ctrl.features">
+            <md-card-title>
+              <md-card-title-text>
+                <span class="md-headline">{{item.name}}</span>
+              </md-card-title-text>
+              <md-card-title-media>
+                <div class="md-media-md card-media"></div>
+              </md-card-title-media>
+            </md-card-title>
+            <md-card-actions layout="row" layout-align="end center">
+              <md-button>Action 1</md-button>
+              <md-button>Action 2</md-button>
+            </md-card-actions>
+          </md-card>
 
       </div>
 
