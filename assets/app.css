@@ -45,7 +45,7 @@ md-list-item > button {
 /* Primary content area */
 
 #content {
-  overflow: hidden;
+  overflow: scroll;
 }
 
 #content  {
@@ -151,3 +151,11 @@ span.name {
 .search-bar:focus {
   outline: none;
 }
+
+.title {
+  cursor: pointer;
+}
+
+.title:focus {
+  outline: none;
+};
