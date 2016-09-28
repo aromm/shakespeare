@@ -1,5 +1,5 @@
-{name: "The Two Gentlemen Of Verona",
- characters: [
+{"name": "The Two Gentlemen Of Verona",
+ "characters": [
 "VALENTINE, a gentleman of Verona",
 "SPEED, his servant",
 "PROTEUS, a gentleman of Verona",
@@ -14,7 +14,7 @@
 "EGLAMOUR, a gentleman",
 "HOST, proprietor of an inn in Milan",
 "OUTLAWS, living in a forest near Mantua"],
- summary: "The Two Gentlemen of Verona tells the story of two devoted friends,
+ "summary": "The Two Gentlemen of Verona tells the story of two devoted friends,
 Valentine and Proteus. Valentine leaves their home city of Verona for
 Milan, but Proteus, in love with Julia, stays behind. Then Proteus’s
 father sends him to Milan, too. Before leaving, Proteus pledges his

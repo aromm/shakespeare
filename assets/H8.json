@@ -1,5 +1,5 @@
-{name: "Henry VIII",
- characters: [
+{"name": "Henry VIII",
+ "characters": [
 "KING Henry the Eighth",
 "Duke of NORFOLK",
 "Duke of SUFFOLK",
@@ -45,7 +45,7 @@
 "Princess Elizabeth as an infant",
 "Duchess of Norfolk",
 "Marquess and Marchioness of Dorset"],
- summary: "Two stories dominate Henry VIII: the fall of Cardinal Wolsey, Henry’s
+ "summary": "Two stories dominate Henry VIII: the fall of Cardinal Wolsey, Henry’s
 powerful advisor, and Henry’s quest to divorce Queen Katherine, who
 has not borne him a male heir, and marry Anne Bullen (Boleyn).
 First, the Duke of Buckingham questions Wolsey’s costly staging of a

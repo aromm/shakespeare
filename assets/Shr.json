@@ -1,5 +1,5 @@
-{name: "The Taming Of The Shrew",
- characters: [
+{"name": "The Taming Of The Shrew",
+ "characters": [
 "CHRISTOPHER SLY, a beggar",
 "Hostess of an alehouse",
 "A Lord",
@@ -31,7 +31,7 @@
 "Haberdasher",
 "Officer",
 "Servants to Baptista and Petruchio"],
- summary: "The Taming of the Shrew begins with an “induction” in which a
+ "summary": "The Taming of the Shrew begins with an “induction” in which a
 nobleman plays a trick on a beggar, Christopher Sly, treating Sly as if
 he is a nobleman who has lost his memory. A play is staged for Sly—
 the play that we know as The Taming of the Shrew.

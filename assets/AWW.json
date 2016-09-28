@@ -1,5 +1,5 @@
-{name: "All's Well That Ends Well",
- characters: [
+{"name": "All's Well That Ends Well",
+ "characters": [
  "HELEN: a gentlewoman of Rossillion", 
  "BERTRAM: Count of Rossillion",
  "COUNTESS of Rossillion: Bertram's mother", 
@@ -21,7 +21,7 @@
  "DIANA: the Widow's daughter", 
  "MARIANA: the Widow's neighbor", 
  "Attendants, Soldiers, Citizens of Florence, Servants"],
- summary: "In All’s Well That Ends Well, a woman is given in marriage to the man she
+ "summary": "In All’s Well That Ends Well, a woman is given in marriage to the man she
   longs for, but, because she is of lower rank, he refuses to accept the marriage. 
   t becomes her challenge to win his acceptance.
 Helen, the daughter of a dead physician, secretly loves Bertram, the Count of 

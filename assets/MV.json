@@ -1,5 +1,5 @@
-{name: "The Merchant of Venice",
- characters: [
+{"name": "The Merchant of Venice",
+ "characters": [
  "PORTIA, an heiress of Belmont",
 "NERISSA, her waiting-gentlewoman",
 "BALTHAZAR",
@@ -21,7 +21,7 @@
 "SALERIO, a messenger from Venice",
 "Jailer",
 "Duke of Venice"],
- summary: "Antonio, the merchant in The Merchant of Venice, secures a loan from
+ "summary": "Antonio, the merchant in The Merchant of Venice, secures a loan from
 Shylock for his friend Bassanio, who seeks to court Portia. Shylock, a
 Jewish moneylender, recalls past insults from Antonio and, instead of
 asking interest on the loan, asks instead—in what he calls a “merry

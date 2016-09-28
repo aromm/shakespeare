@@ -1,5 +1,5 @@
-{name: "Troilus And Cressida",
- characters: [
+{"name": "Troilus And Cressida",
+ "characters": [
 "PRIAM, king of Troy",
 "CASSANDRA, Priam’s daughter, a soothsayer",
 "TROILUS",
@@ -30,7 +30,7 @@
 "MYRMIDONS, Achilles’ soldiers",
 "THERSITES, cynical critic",
 "DIOMEDES’ SERVINGMAN"],
- summary: "Set during the Trojan War, Troilus and Cressida recounts the love
+ "summary": "Set during the Trojan War, Troilus and Cressida recounts the love
 affair of its title characters. Inside the besieged city of Troy, the Trojan
 prince Troilus is lovesick for Cressida. Cressida is drawn to Troilus,
 too, and her uncle, Pandarus, brings them together.

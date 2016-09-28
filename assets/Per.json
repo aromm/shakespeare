@@ -1,5 +1,5 @@
-{name: "Pericles",
- characters: [
+{"name": "Pericles",
+ "characters": [
 "GOWER, fourteenth-century poet and Chorus of the play",
 "PERICLES, prince of Tyre",
 "THAISA, princess of Pentapolis and wife to Pericles",
@@ -49,7 +49,7 @@
 "Companion to Marina",
 "Priestesses in Diana’s temple",
 "Messenger from Tyre"],
- summary: "The nautical tale of a wandering prince, Pericles is narrated by John
+ "summary": "The nautical tale of a wandering prince, Pericles is narrated by John
 Gower, a poet from the English past. Gower explains that Pericles,
 Prince of Tyre, hopes to win the hand of a princess in Antioch. When
 Pericles learns that she and the king, her father, are lovers, he flees for

@@ -1,5 +1,5 @@
-{name: "Titus Andronicus",
- characters: [
+{"name": "Titus Andronicus",
+ "characters": [
 "TITUS ANDRONICUS, a noble Roman general",
 "LAVINIA, his daughter",
 "LUCIUS",
@@ -26,7 +26,7 @@
 "COUNTRY FELLOW",
 "FIRST GOTH",
 "SECOND GOTH"],
- summary: "Titus Andronicus overflows with death and violence. Twenty-one sons
+ "summary": "Titus Andronicus overflows with death and violence. Twenty-one sons
 of the Roman general Titus Andronicus have died in battle, leaving
 four alive. After defeating the Goths, Titus permits the sacrifice of the
 oldest son of their queen, Tamora.

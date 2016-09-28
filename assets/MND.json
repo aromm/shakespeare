@@ -1,5 +1,5 @@
-{name: "A Midsummer Night's Dream",
- characters: [
+{"name": "A Midsummer Night's Dream",
+ "characters": [
 "HERMIA",
 "LYSANDER",
 "HELENA",
@@ -24,7 +24,7 @@
 "MUSTARDSEED",
 "Lords and Attendants on Theseus and Hippolyta",
 "Other Fairies in the trains of Titania and Oberon"],
- summary: "In A Midsummer Night’s Dream, residents of Athens mix with fairies
+ "summary": "In A Midsummer Night’s Dream, residents of Athens mix with fairies
 from a local forest, with comic results. In the city, Theseus, Duke of
 Athens, is to marry Hippolyta, queen of the Amazons. Bottom the
 weaver and his friends rehearse in the woods a play they hope to stage

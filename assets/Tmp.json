@@ -1,5 +1,5 @@
-{name: "The Tempest",
- characters: [
+{"name": "The Tempest",
+ "characters": [
 "PROSPERO, the former duke of Milan, now a magician on a Mediterranean island",
 "MIRANDA, Prospero’s daughter",
 "ARIEL, a spirit, servant to Prospero",
@@ -21,7 +21,7 @@
 "Juno",
 "Nymphs",
 "Reapers in Prospero’s masque"],
- summary: "A story of shipwreck and magic, The Tempest begins on a ship caught
+ "summary": "A story of shipwreck and magic, The Tempest begins on a ship caught
 in a violent storm with Alonso, the king of Naples, on board. On a
 nearby island, the exiled Duke of Milan, Prospero, tells his daughter,
 Miranda, that he has caused the storm with his magical powers.

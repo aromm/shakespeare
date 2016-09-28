@@ -1,5 +1,5 @@
-{name: "Twelfth Night",
- characters: [
+{"name": "Twelfth Night",
+ "characters": [
 "VIOLA, a lady of Messaline shipwrecked on the coast of Illyria (later disguised as CESARIO)",
 "OLIVIA, an Illyrian countess",
 "MARIA, her waiting-gentlewoman",
@@ -16,7 +16,7 @@
 "CAPTAIN",
 "PRIEST",
 "Two OFFICERS"],
- summary: "Twelfth Night—an allusion to the night of festivity preceding the
+ "summary": "Twelfth Night—an allusion to the night of festivity preceding the
 Christian celebration of the Epiphany—combines love, confusion,
 mistaken identities, and joyful discovery.
 After the twins Sebastian and Viola survive a shipwreck, neither

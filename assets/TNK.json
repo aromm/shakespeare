@@ -1,5 +1,5 @@
-{name: "The Two Noble Kinsmen",
- characters: [
+{"name": "The Two Noble Kinsmen",
+ "characters": [
 "ARCITE",
 "PALAMON",
 "THESEUS, Duke of Athens",
@@ -31,7 +31,7 @@
 "Maudlin",
 "Luce",
 "Barbary"],
- summary: "The Two Noble Kinsmen, derived from Chaucer’s Canterbury Tales,
+ "summary": "The Two Noble Kinsmen, derived from Chaucer’s Canterbury Tales,
 begins as Athens defeats Thebes in war. Arcite and Palamon, Theban
 knights and devoted cousins, are imprisoned in Athens. From their
 cell, they see Emilia, the sister-in-law of Theseus, Duke of Athens.

@@ -1,5 +1,5 @@
-{name: "Measure For Measure",
- characters: [
+{"name": "Measure For Measure",
+ "characters": [
 "DUKE of Vienna, later called Friar Lodowick",
 "ESCALUS, a judge",
 "PROVOST",
@@ -25,7 +25,7 @@
 "FROTH, Pompey’s customer",
 "BARNARDINE, a prisoner"
 ],
- summary: "Human nature and the law often collide in Measure for Measure. As
+ "summary": "Human nature and the law often collide in Measure for Measure. As
 the play begins, the Duke of Vienna announces he is going away and
 puts his deputy Angelo in charge of the state. Angelo immediately
 enforces a law prohibiting sex outside of marriage, sentencing

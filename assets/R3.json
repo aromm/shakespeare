@@ -1,5 +1,5 @@
-{name: "Macbeth",
- characters: [
+{"name": "Macbeth",
+ "characters": [
 "RICHARD, Duke of Gloucester, later King Richard III",
 "LADY ANNE, widow of Edward, son to the late King Henry VI; later wife to Richard",
 "KING EDWARD IV, brother to Richard",
@@ -55,7 +55,7 @@
 "Lord Scales",
 "Two Bishops",
 "Sir William Brandon"],
- summary: "As Richard III opens, Richard is Duke of Gloucester and his brother,
+ "summary": "As Richard III opens, Richard is Duke of Gloucester and his brother,
 Edward IV, is king. Richard is eager to clear his way to the crown. He
 manipulates Edward into imprisoning their brother, Clarence, and then
 has Clarence murdered in the Tower. Meanwhile, Richard succeeds in

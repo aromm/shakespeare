@@ -1,5 +1,5 @@
-{name: "Timon Of Athens",
- characters: [
+{"name": "Timon Of Athens",
+ "characters": [
 "TIMON, a noble Athenian",
 "FLAVIUS, his steward",
 "LUCILIUS",
@@ -34,7 +34,7 @@
 "Three STRANGERS, one called HOSTILIUS",
 "BANDITTI, theives",
 "“Cupid” and other Maskers (as Amazons)"],
- summary: "In Timon of Athens, Lord Timon discovers the limits of wealth and
+ "summary": "In Timon of Athens, Lord Timon discovers the limits of wealth and
 friendship. He spends freely on others and hosts banquets for many
 guests. Despite his servants’ warnings, he spends so excessively that
 his money runs out—and the philosopher Apemantus condemns his

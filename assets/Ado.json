@@ -1,5 +1,5 @@
-{name: "Much Ado About Nothing",
- characters: [
+{"name": "Much Ado About Nothing",
+ "characters": [
 "LEONATO, Governor of Messina",
 "HERO, his daughter",
 "BEATRICE, his niece",
@@ -23,7 +23,7 @@
 "FRIAR FRANCIS",
 "MESSENGER to Leonato",
 "MESSENGER to Don Pedro"],
- summary: "The primary plot of Much Ado About Nothing turns on the courtship
+ "summary": "The primary plot of Much Ado About Nothing turns on the courtship
 and scandal involving young Hero and her suitor, Claudio, but the
 witty war of words between Claudio’s friend Benedick and Hero’s
 cousin Beatrice often takes center stage.

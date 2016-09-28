@@ -1,5 +1,5 @@
-{name: "The Winter's Tale",
- characters: [
+{"name": "The Winter's Tale",
+ "characters": [
 "LEONTES, King of Sicilia",
 "HERMIONE, Queen of Sicilia",
 "MAMILLIUS, their son",
@@ -26,7 +26,7 @@
 "SERVANT to the Shepherd",
 "SHEPHERDS and SHEPHERDESSES",
 "Twelve COUNTRYMEN disguised as satyrs"],
- summary: "The “tale” of The Winter’s Tale unfolds in scenes set sixteen years
+ "summary": "The “tale” of The Winter’s Tale unfolds in scenes set sixteen years
 apart. In the first part of the play, Leontes, king of Sicilia, plays host
 to his friend Polixenes, king of Bohemia. Suddenly, Leontes becomes
 unreasonably jealous of Polixenes and Leontes’s pregnant wife,

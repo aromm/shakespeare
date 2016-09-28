@@ -1,5 +1,5 @@
-{name: "Richard II",
- characters: [
+{"name": "Richard II",
+ "characters": [
 "KING RICHARD II",
 "Sir John BUSHY",
 "Sir John BAGOT",
@@ -37,7 +37,7 @@
 "KEEPER of prison at Pomfret Castle",
 "SIR PIERCE OF EXTON"
 "Servingmen to Exton"],
- summary: "In Richard II, anger at a king’s arbitrary rule leads to his downfall—
+ "summary": "In Richard II, anger at a king’s arbitrary rule leads to his downfall—
 and sets in motion a decades-long struggle for the crown that
 continues in several more history plays.
 Richard II begins as Richard’s cousin, Henry Bolingbroke, charges

@@ -1,5 +1,5 @@
-{name: "Romeo And Juliet",
- characters: [
+{"name": "Romeo And Juliet",
+ "characters": [
 "ROMEO",
 "MONTAGUE, his father",
 "LADY MONTAGUE, his mother",
@@ -27,7 +27,7 @@
 "Three or four Citizens",
 "Three Musicians",
 "Three Watchmen"],
- summary: "The prologue of Romeo and Juliet calls the title characters “starcrossed
+ "summary": "The prologue of Romeo and Juliet calls the title characters “starcrossed
 lovers”—and the stars do seem to conspire against these
 young lovers.
 Romeo is a Montague, and Juliet a Capulet. Their families are
