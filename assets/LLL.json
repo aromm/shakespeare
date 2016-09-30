@@ -1,5 +1,5 @@
-{name: "Love's Labor's Lost",
- characters: [
+{"name": "Love's Labor's Lost",
+ "characters": [
  "KING of Navarre, also known as Ferdinand",
 "The PRINCESS of France",
 "BOYET, a lord attending the Princess",
@@ -12,7 +12,7 @@
 "NATHANIEL, the CURATE",
 "FORESTER",
 "MONSIEUR MARCADE, a messenger from France"],
- summary: "In Love’s Labor’s Lost, the comedy centers on four young men who
+ "summary": "In Love’s Labor’s Lost, the comedy centers on four young men who
 fall in love against their wills. The men, one of them the king of
 Navarre, pledge to study for three years, avoiding all contact with
 women. When the Princess of France arrives on a state visit, the king

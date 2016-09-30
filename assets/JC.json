@@ -1,5 +1,5 @@
-{name: "Julius Caesar",
- characters: [
+{"name": "Julius Caesar",
+ "characters": [
 "JULIUS CAESAR",
 "CALPHURNIA, his wife",
 "Servant to them",
@@ -40,7 +40,7 @@
 "ARTEMIDORUS",
 "CINNA the poet",
 "PINDARUS, slave to Cassius, freed upon Cassius’s death"],
- summary: "Caesar’s assassination is just the halfway point of Julius Caesar. The
+ "summary": "Caesar’s assassination is just the halfway point of Julius Caesar. The
 first part of the play leads to his death; the second portrays the
 consequences. As the action begins, Rome prepares for Caesar’s
 triumphal entrance. Brutus, Caesar’s friend and ally, fears that Caesar
